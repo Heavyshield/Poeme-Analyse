@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TP1.Controleur.Menu">
+    <Position X="6" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Controleur\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Controleur.Poeme">
+    <Position X="10" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAABA=</HashCode>
+      <FileName>Controleur\Poeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Controleur.Rime">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controleur\Rime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Controleur.SchemaRimique">
+    <Position X="0.5" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACkAQAQAAAAAAA=</HashCode>
+      <FileName>Controleur\SchemaRimique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Strophe">
+    <Position X="10" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAABAAEAAAAAAAAAIAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controleur\Strophe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Vers">
+    <Position X="9.75" Y="6" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQABAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controleur\Vers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Program">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.Modele.Content">
+    <Position X="1.5" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAABAAAAASAAAAAgAAQA=</HashCode>
+      <FileName>Modele\Content.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1.View.Affichage">
+    <Position X="15.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAAQAAAAAQAAACAAAAAgAAAAAAAEAAAAAAEBAAA=</HashCode>
+      <FileName>View\Affichage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
